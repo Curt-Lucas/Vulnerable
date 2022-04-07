@@ -1,0 +1,35 @@
+Scanned 149.28.1.185 - 149.28.250.185
+Apr 1, 2022, 10:47:29 PM
+
+IP              Ping            Hostname                Ports           
+149.28.9.121    88 ms           149.28.9.121.vultrusercontent.com6667            
+149.28.13.173   90 ms           149.28.13.173.vultrusercontent.com6667            
+149.28.15.121   100 ms          Invictus-EP.wa.us.umbrellix.net6667            
+149.28.17.211   178 ms          149.28.17.211.vultrusercontent.com6667            
+149.28.23.180   186 ms          149.28.23.180.vultrusercontent.com6667            
+149.28.38.120   51 ms           149.28.38.120.vultrusercontent.com6667            
+149.28.44.196   51 ms           149.28.44.196.vultrusercontent.com6667            
+149.28.47.17    77 ms           149.28.47.17.vultrusercontent.com6667            
+149.28.49.249   61 ms           149.28.49.249.vultrusercontent.com6667            
+149.28.51.221   62 ms           149.28.51.221.vultrusercontent.com6667            
+149.28.51.240   109 ms          149.28.51.240.vultrusercontent.com6667            
+149.28.63.44    76 ms           149.28.63.44.vultrusercontent.com6667            
+149.28.81.178   68 ms           149.28.81.178.vultrusercontent.com6667            
+149.28.104.188  39 ms           149.28.104.188.vultrusercontent.com6667            
+149.28.118.31   39 ms           mail.crawfi.sh          6667            
+149.28.145.182  228 ms          149.28.145.182.vultrusercontent.com6667            
+149.28.151.76   228 ms          149.28.151.76.vultrusercontent.com6667            
+149.28.162.157  281 ms          au24.tmd.cloud          6667            
+149.28.168.149  289 ms          149.28.168.149.vultrusercontent.com6667            
+149.28.170.185  538 ms          149.28.170.185.vultrusercontent.com6667            
+149.28.175.7    256 ms          149.28.175.7.vultrusercontent.com6667            
+149.28.175.182  279 ms          149.28.175.182.vultrusercontent.com6667            
+149.28.177.247  280 ms          149.28.177.247.vultrusercontent.com6667            
+149.28.188.195  281 ms          gnupluslinux.com        6667            
+149.28.189.244  258 ms          149.28.189.244.vultrusercontent.com6667            
+149.28.192.18   76 ms           149.28.192.18.vultrusercontent.com6667            
+149.28.198.115  77 ms           svmain1.woogicdn.com    6667            
+149.28.209.8    96 ms           149.28.209.8.vultrusercontent.com6667            
+149.28.219.165  77 ms           149.28.219.165.vultrusercontent.com6667            
+149.28.236.173  51 ms           liberty.stardust.cx     6667            
+149.28.248.254  39 ms           vampire.tx.us.chatlounge.net6667            
