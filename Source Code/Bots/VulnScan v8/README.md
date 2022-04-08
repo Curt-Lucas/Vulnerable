@@ -23,7 +23,7 @@ Udp : !morgan @udpflood IP packet-size time
 
 Tcp : !morgan @tcpflood IP port time
 
-Http: !morgan @httpflood www.website.com time
+Http: !morgan @httpflood www.demo.com time
 
 ## Greets to:
 
