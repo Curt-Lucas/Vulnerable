@@ -7,8 +7,10 @@ Vulnerabilities, Exploits, POCs, Disclosures
 [2] FULL PATH DISCLOSURE w/ POC
 
 ## demoownz.com
+[1] HOSTAGE DOMAIN
 
 ## aarondeeds.gay
+[1] HOSTAGE DOMAIN
 
 ## Donate
 CashApp: $yahooadmin 
