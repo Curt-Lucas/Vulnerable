@@ -19,5 +19,9 @@ perl feelscanz.pl
  + Fixed missing hostname on sublink (v4.8)
  + Added links filter to exclude exploiting bad links (v4.9)
  
- ## Donate
- RavenCoin: RBTmX8cFrhBZ4RDLjZSqDwA79krQJAupCY
+## Donate
+CashApp: $yahooadmin 
+
+Ethereum: 0xBf35D0994Aa944C22BDba2Fd019dd1fac55DEf5c
+
+RavenCoin: RBTmX8cFrhBZ4RDLjZSqDwA79krQJAupCY
