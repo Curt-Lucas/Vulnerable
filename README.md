@@ -1,6 +1,8 @@
 # Vulnerable
 Vulnerabilities, Exploits, POCs, Disclosures
 
+Visit http://hacker.jp.net/ for security related news.
+
 ## geoiplookup.net
 [1] XSS WEB ATTACK w/ POC
 
