@@ -1,0 +1,3 @@
+[1] FULL PATH DISCLOSURE
+[1] POC: https://www.pontulogo.es/product-list.php?id=hello
+[1] RESULT: /homepages/14/d567450942/htdocs/pro/
